@@ -1,0 +1,9 @@
+﻿  FileInterface.cpp
+c:\users\anton\documents\github\ppc-composant3\composant1\fileinterface.h(21): warning C4251: 'FileInterface::fichier': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'FileInterface'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\anton\documents\github\ppc-composant3\composant1\fileinterface.cpp(24): error C2065: 'CComposant5': undeclared identifier
+c:\users\anton\documents\github\ppc-composant3\composant1\fileinterface.cpp(24): error C2146: syntax error: missing ';' before identifier 'c5'
+c:\users\anton\documents\github\ppc-composant3\composant1\fileinterface.cpp(24): error C2065: 'c5': undeclared identifier
+c:\users\anton\documents\github\ppc-composant3\composant1\fileinterface.cpp(25): error C2065: 'c5': undeclared identifier
+c:\users\anton\documents\github\ppc-composant3\composant1\fileinterface.cpp(25): error C2228: left of '.verify_bloc' must have class/struct/union
+  c:\users\anton\documents\github\ppc-composant3\composant1\fileinterface.cpp(25): note: type is 'unknown-type'

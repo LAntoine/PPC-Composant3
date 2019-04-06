@@ -44,9 +44,6 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="DummyBloc.cpp">
-      <Filter>Fichiers sources</Filter>
-    </ClCompile>
     <ClCompile Include="Mineur.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>

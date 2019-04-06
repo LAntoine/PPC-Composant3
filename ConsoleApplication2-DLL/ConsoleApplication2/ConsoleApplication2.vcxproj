@@ -172,7 +172,6 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
       </PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="DummyBloc.cpp" />
     <ClCompile Include="Mineur.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -182,6 +181,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Composant1\Composant1.vcxproj">
+      <Project>{cbcca50f-2fd9-48d6-9e22-ec2746f5c110}</Project>
+    </ProjectReference>
     <ProjectReference Include="..\..\Composant4-master\Composant4\Composant4.vcxproj">
       <Project>{9713aad0-6172-4e5d-80bf-774f462673a5}</Project>
     </ProjectReference>

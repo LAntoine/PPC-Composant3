@@ -2,5 +2,4 @@
   tester.cpp
   DummyBloc.cpp
   Generating Code...
-  ConsoleApplication3.vcxproj -> C:\Users\anton\Documents\GitHub\PPC-Composant3\ConsoleApplication3-Caller\Debug\ConsoleApplication3.exe
-  ConsoleApplication3.vcxproj -> C:\Users\anton\Documents\GitHub\PPC-Composant3\ConsoleApplication3-Caller\Debug\ConsoleApplication3.pdb (Full PDB)
+LINK : fatal error LNK1104: cannot open file 'C:\Users\anton\Documents\GitHub\PPC-Composant3\ConsoleApplication3-Caller\Debug\Composant3Dll.lib'
